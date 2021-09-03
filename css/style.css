@@ -36,6 +36,8 @@ body {
 
 .value {
     margin-bottom: 30px;
+    font-size: 44px;
+    color: rgb(42 41 78);
 }
 
 .label {
